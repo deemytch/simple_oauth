@@ -2,7 +2,6 @@
 
 [![Gem Version](http://img.shields.io/gem/v/simple_oauth.svg)][gem]
 [![Build Status](http://img.shields.io/travis/laserlemon/simple_oauth.svg)][travis]
-[![Dependency Status](http://img.shields.io/gemnasium/laserlemon/simple_oauth.svg)][gemnasium]
 [![Code Climate](http://img.shields.io/codeclimate/github/laserlemon/simple_oauth.svg)][codeclimate]
 [![Coverage Status](http://img.shields.io/coveralls/laserlemon/simple_oauth.svg)][coveralls]
 
