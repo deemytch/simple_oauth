@@ -1,21 +1,21 @@
 # simple_oauth
 
 [![Gem Version](http://img.shields.io/gem/v/simple_oauth.svg)][gem]
-[![Build Status](http://img.shields.io/travis/laserlemon/simple_oauth.svg)][travis]
-[![Code Climate](http://img.shields.io/codeclimate/github/laserlemon/simple_oauth.svg)][codeclimate]
-[![Coverage Status](http://img.shields.io/coveralls/laserlemon/simple_oauth.svg)][coveralls]
+[![Build Status](http://img.shields.io/travis/deemytch/simple_oauth.svg)][travis]
+[![Code Climate](http://img.shields.io/codeclimate/github/deemytch/simple_oauth.svg)][codeclimate]
+[![Coverage Status](http://img.shields.io/coveralls/deemytch/simple_oauth.svg)][coveralls]
 
 [gem]: https://rubygems.org/gems/simple_oauth
-[travis]: http://travis-ci.org/laserlemon/simple_oauth
-[gemnasium]: https://gemnasium.com/laserlemon/simple_oauth
-[codeclimate]: https://codeclimate.com/github/laserlemon/simple_oauth
-[coveralls]: https://coveralls.io/r/laserlemon/simple_oauth
+[travis]: http://travis-ci.org/deemytch/simple_oauth
+[gemnasium]: https://gemnasium.com/deemytch/simple_oauth
+[codeclimate]: https://codeclimate.com/github/deemytch/simple_oauth
+[coveralls]: https://coveralls.io/r/deemytch/simple_oauth
 
 Simply builds and verifies OAuth headers
 
 ## Supported Rubies
 This library aims to support and is [tested
-against](http://travis-ci.org/laserlemon/simple_oauth) the following Ruby
+against](http://travis-ci.org/deemytch/simple_oauth) the following Ruby
 implementations:
 
 * Ruby 1.8.7
